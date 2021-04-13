@@ -8,3 +8,6 @@
 
 ### Docker
 [Sección de Docker](https://github.com/hackademymx/hackademy-docu/blob/main/docker.md)
+
+### Python
+[Sección de Python](https://github.com/hackademymx/hackademy-docu/blob/main/python.md)
