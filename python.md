@@ -6,4 +6,4 @@
 ## Enlaces
 
 * [Python workflow with pyenv & Pipenv](https://www.openitsinaloa.com/python-workflow/)
-*
+* [Flake8 Rules](https://www.flake8rules.com/)
