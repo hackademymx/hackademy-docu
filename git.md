@@ -12,3 +12,5 @@
 * [Aprende Git con bitbucket](https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Git Stash](https://opensource.com/article/21/4/git-stash?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a000002w0CEAAY)
 * [Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/)
+* [Git Quick stats](https://github.com/arzzen/git-quick-stats)
+* [An open source game about learning Git!](https://ohmygit.org/)
