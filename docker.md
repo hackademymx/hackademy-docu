@@ -10,3 +10,4 @@
 * [Docker imagenes multi stage](https://www.googlinux.com/docker-multi-stage-builds/)
 * [Credential manager docker](https://www.openitsinaloa.com/credential-store-docker/)
 * [Is docker-compose ready for production?](https://vsupalov.com/docker-compose-production/)
+* [Manual de deploy Backend Nodejs Dockerizado](https://github.com/ChepeAicrag12/Deploy-Backend-Docker-AWS)
