@@ -14,3 +14,4 @@
 * [Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/)
 * [Git Quick stats](https://github.com/arzzen/git-quick-stats)
 * [An open source game about learning Git!](https://ohmygit.org/)
+* [Git commit message convention that you can follow!](https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709)
