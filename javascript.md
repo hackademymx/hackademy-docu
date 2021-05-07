@@ -5,4 +5,4 @@
 ------
 ## Enlaces
 
-* [Descripcion](URL)
+* [CDN Caching, Static Site Generation, and Server Side Rendering](https://www.youtube.com/watch?v=bfLFHp7Sbkg)
