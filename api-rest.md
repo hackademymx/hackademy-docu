@@ -10,4 +10,3 @@
 * [SOA vs. Microservices: What's the Difference?](https://www.decipherzone.com/blog-detail/soa-vs-microservices)
 * [The easiest way to mock REST APIs! ](https://www.mockapi.io/)
 * [Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://www.npmjs.com/package/json-server)
-* 
