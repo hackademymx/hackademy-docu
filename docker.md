@@ -11,3 +11,4 @@
 * [Credential manager docker](https://www.openitsinaloa.com/credential-store-docker/)
 * [Is docker-compose ready for production?](https://vsupalov.com/docker-compose-production/)
 * [Manual de deploy Backend Nodejs Dockerizado](https://github.com/ChepeAicrag12/Deploy-Backend-Docker-AWS)
+* [AWS EKS vs. ECS vs. Fargate: Where to manage your Kubernetes?](https://cast.ai/blog/aws-eks-vs-ecs-vs-fargate-where-to-manage-your-kubernetes/)
