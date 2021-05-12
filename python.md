@@ -14,3 +14,4 @@
 * [Hidden Gems of Python](https://towardsdatascience.com/hidden-gems-of-python-76020b14e42f)
 * [An Alternative to Python Dictionaries](https://betterprogramming.pub/an-alternative-to-python-dictionaries-5d54aa4c5a6)
 * [8 Built-in Functions Every Python Programmer Should Know](https://levelup.gitconnected.com/8-built-in-functions-every-python-programmer-should-know-3552eb768894)
+* [“Find the Difference” in Python](https://towardsdatascience.com/find-the-difference-in-python-68bbd000e513)
