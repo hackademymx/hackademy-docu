@@ -10,3 +10,4 @@
 * [Don’t put that in React State — Thinking in React](https://harshit-jain.medium.com/dont-put-that-in-react-state-thinking-in-react-4f989400c973)
 * [21 Best Practices for a Clean React Project](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
 * [How to Fetch Data in React: Cheatsheet + Examples](https://medium.com/react-bootcamp/how-to-fetch-data-in-react-cheatsheet-examples-d2bfc3ad65be)
+* [Stop Using React For Small Projects and Use This Instead](https://medium.com/quick-programming/stop-using-react-for-small-projects-and-use-this-instead-93c3f1326d20)
