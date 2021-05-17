@@ -6,8 +6,8 @@
 ### Git
 [Sección de Git](https://github.com/hackademymx/hackademy-docu/blob/main/git.md)
 
-### Enviroment
-[Sección de Enviroment](https://github.com/hackademymx/hackademy-docu/blob/main/enviroment.md)
+### Environment
+[Sección de Environment](https://github.com/hackademymx/hackademy-docu/blob/main/environment.md)
 
 ### Docker
 [Sección de Docker](https://github.com/hackademymx/hackademy-docu/blob/main/docker.md)
