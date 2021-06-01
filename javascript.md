@@ -10,3 +10,4 @@
 * [ES6 Modules and How to Use Import and Export in JavaScript](https://www.digitalocean.com/community/tutorials/js-modules-es6)
 * [4 Useful JavaScript ES2020 Features that You Should Know](https://javascript.plainenglish.io/4-useful-javascript-es2020-features-that-you-should-know-5d690430cf6e)
 * [Replacing let with const](https://charles-stover.medium.com/replacing-let-with-const-86797b790775)
+* [Uploading form fields and files at the same time with Multer (Node.js, Typescript)](https://medium.com/developer-rants/uploading-form-fields-and-files-at-the-same-time-with-multer-node-js-typescript-c1a367eb8198)
