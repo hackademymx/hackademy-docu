@@ -15,3 +15,4 @@
 * [An Alternative to Python Dictionaries](https://betterprogramming.pub/an-alternative-to-python-dictionaries-5d54aa4c5a6)
 * [8 Built-in Functions Every Python Programmer Should Know](https://levelup.gitconnected.com/8-built-in-functions-every-python-programmer-should-know-3552eb768894)
 * [“Find the Difference” in Python](https://towardsdatascience.com/find-the-difference-in-python-68bbd000e513)
+* [What You Should Know About The Django User Model](https://simpleisbetterthancomplex.com/article/2021/07/08/what-you-should-know-about-the-django-user-model.html)
