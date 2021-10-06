@@ -7,6 +7,8 @@
 
 * [Top 20 Dockerfile best practices](https://sysdig.com/blog/dockerfile-best-practices/)
 
+* [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
+
 * [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
 
 * [10 things to avoid in docker containers](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/)
