@@ -4,6 +4,7 @@
 
 --------
 ## Enlaces
+* [What the difference between REST API and RESTful API?](https://morioh.com/p/07c7b4db9976?f=5c21fb01c16e2556b555ab32)
 * [Representational state transfer (REST)](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/rest)
 * [22 Best Practices to Take Your API Design Skills to the Next Level](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
 * [Best Practices for REST API Error Handling](https://www.baeldung.com/rest-api-error-handling-best-practices)
